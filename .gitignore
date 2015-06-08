@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.lon
+*.out
+*.gz
+*.tex
+*.toc
+*.ini
+*.cls
